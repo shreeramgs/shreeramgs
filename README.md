@@ -24,5 +24,5 @@ Want to know more?? View my [Portfolio](https://github.com/shreeramgs),  or conn
 - 💬 Review my profile ... [Resume](https://github.com/shreeramgs/Resume) 
 - 📫 Reach me out at ... 🙋‍♂️[Linkedin](https://www.linkedin.com/in/shreeramgs/)
 - ⚡ For self improvement I like to ... Play acoustic guitar🎸 and sing 🎶, Football ⚽, read comics, comics, comics 🦇🤓
-- 🚀 Contributions ... Are you interested in python or R? D you like statistics and data science? Contribute to the this 📘[repository](https://github.com/shreeramgs/Data-Science-projects).
+- 🚀 Contributions ... Are you interested in Python or R? Do you like to learn Data science? Contribute to the this 📘[repository](https://github.com/shreeramgs/Data-Science-projects).
 If you love web development, then please contribute to the this 📘[repository](https://github.com/shreeramgs/E-wal)
