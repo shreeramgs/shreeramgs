@@ -8,7 +8,7 @@ Want to know more, visit my [Website](https://github.com/shreeramgs),  or connec
 ## 👨‍💻 Technical Skills:
 <img src="https://github.com/shreeramgs/Data-Science-projects/assets/40434495/daf6345b-40fb-4793-8537-1dcb7403652c" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="120"
-     style="border-radius:100px;">
+     style="border-radius:150px;">
 
 -    **Programming Languages**: Python 3, R, JavaScript, Scala, C, C++
 -   **Databases**: SQL Server, MySQL, PostgreSQL, MongoDB
