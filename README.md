@@ -25,5 +25,5 @@ Want to know more?? View my 📝[Portfolio](https://github.com/shreeramgs/DataSc
 - 📫 Reach me out at ... 🙋‍♂️[Linkedin](https://www.linkedin.com/in/shreeramgs/)
 - 🗺️ Guide to learn data science ... 💡[Beginners roadmap](https://github.com/shreeramgs/roadmap)
 - ⚡ For self improvement I like to ... Play acoustic guitar🎸 and sing 🎶, Football ⚽, read comics, comics, comics 🦇🤓
-- 🚀 Contributions ... Do you like to learn [Data science with R](https://github.com/shreeramgs/Data-Science-projects)? Are you interested in Python? Contribute either of these repositories 📘[repo1](https://github.com/shreeramgs/depression_detector) or 📘[repo2](https://github.com/shreeramgs/US_House_Rent_Predictor).
-If you love web development, then please contribute to this 📘[repository](https://github.com/shreeramgs/E-wal)
+- 💪 Contributions ... Do you like to learn 🚀[Data science with R](https://github.com/shreeramgs/Data-Science-projects)? Are you interested in Python🐍? Contribute to either of these repositories 📘[repo1](https://github.com/shreeramgs/depression_detector) or 📘[repo2](https://github.com/shreeramgs/US_House_Rent_Predictor).
+If you love web development🌐, then please contribute to this 📘[repository](https://github.com/shreeramgs/E-wal)
