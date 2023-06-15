@@ -3,7 +3,7 @@
 ## 🔎 Who am I???   
 I am a data science graduate from the University at Buffalo, State University of New York, with a master's degree in data science and applications. Currently, I am working as a Research Aid at CUBS Lab (Center for Unified Biometrics and Sensors) at UB. Previously, I have gained experience as a Data Scientist Intern at Cognitron Technologies. My areas of interest lie in data analytics, data engineering, data science, and computer vision, specifically deep learning for biometrics.  
 
-Want to know more?? View my [Portfolio](https://github.com/shreeramgs),  or connect with me on [Linkedin](https://www.linkedin.com/in/shreeramgs/). 
+Want to know more?? View my [Portfolio](https://github.com/shreeramgs/DataSciencePortfolio),  or connect with me on [Linkedin](https://www.linkedin.com/in/shreeramgs/). 
 
 ## 👨‍💻 Technical Skills:
 <img src="https://github.com/shreeramgs/Data-Science-projects/assets/40434495/daf6345b-40fb-4793-8537-1dcb7403652c" align="right"
