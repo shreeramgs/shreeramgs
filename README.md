@@ -21,7 +21,7 @@ Want to know more?? View my 📝[Portfolio](https://github.com/shreeramgs/DataSc
 - 🌱 I’m currently learning ... Data Analytics and Data Science
 - 🔭 Previously, have worked as Data Scientist Intern at Cognitron Technologies.
 - 👯 I’m looking to collaborate on ... Data Science/Analyst/Engineer related roles.
-- 💬 Review my profile ... 📃[Resume]([https://github.com/shreeramgs/Resume/blob/main/Resume.pdf]) 
+- 💬 Review my profile ... 📃[Resume](https://github.com/shreeramgs/Resume/blob/main/Resume.pdf) 
 - 📫 Reach me out at ... 🙋‍♂️[Linkedin](https://www.linkedin.com/in/shreeramgs/)
 - 🗺️ Guide to learn data science ... 💡[Beginners roadmap](https://github.com/shreeramgs/roadmap)
 - ⚡ For self improvement I like to ... Play acoustic guitar🎸 and sing 🎶, Football ⚽, read comics, comics, comics 🦇🤓
